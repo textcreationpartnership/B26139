@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Act of Common-Council for the regulation of Blackwell-Hall, Leaden-Hall, and the Welch-Hall: and for prevention of foreign buying and selling.</title>
+            <author>Corporation of London. Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26139</idno><idno type="EEBO-CITATION">99885523</idno>
+  <idno type="VID">185218</idno>
+  <idno type="EEBO-PROQUEST">2248536151</idno>
+  
+            <idno type="STC">Wing L2857</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[11]</idno>
+            <idno type="STC">ESTC R224583</idno>
+            <idno type="PROQUEST">ocm99885523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885523e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26139)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185218)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Act of Common-Council for the regulation of Blackwell-Hall, Leaden-Hall, and the Welch-Hall: and for prevention of foreign buying and selling.</title>
+                  <author>Corporation of London. Court of Common Council.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Anne Godbid,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. M. DC. LXXVIII. [1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Clothing and trade --  England --  Early works to 1800.</term>
+               <term type="topical_term">Trade regulation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185218:1"/>
+            <pb facs="tcp:185218:1"/>
+            <p>AN ACT OF Common-Council FOR REGULATION OF <hi>BLACKWELL-HALL, LEADEN-HALL,</hi> and the <hi>WELCH-HALL:</hi> AND For prevention of Foreign Buying and Selling.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by ANNE GODBID, <hi>Anno Dom. M.DC.LXXVIII.</hi>
+            </p>
+            <pb facs="tcp:185218:2"/>
+         </div>
+         <div type="license">
+            <pb facs="tcp:185218:2"/>
+            <head>Chaplyn Mayor.</head>
+            <opener>
+               <dateline>
+                  <date>Martis Vicesimo Quinto Die <hi>Junii,</hi> 1678. Annoque Regni Regis CAROLI Secundi, <hi>Angliae, &amp;c.</hi> Tricesimo.</date>
+               </dateline>
+            </opener>
+            <p>IT is agreed and Ordered by this Court, That the Act for <hi>Blackwell-Hall</hi> lately passed by the Common-Council, shall be forthwith Printed and Published.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:185218:2"/>
+            <opener>
+               <dateline>Commune Concilium tentum in Camera <hi>Guild<g ref="char:EOLhyphen"/>hall</hi> Civitatis <hi>London,</hi>
+                  <date> die <hi>Jovis,</hi> Vicesimo die <hi>Junii,</hi> Anno Domini, 1678. Annoque Regni Domini nostri CAROLI Secundi, nunc Regis <hi>Angliae,</hi> &amp;c. Tricesimo,</date>
+               </dateline> coram <hi>Francisco Chaplyn</hi> Milite, Majore Civitatis <hi>London, Johanne Frederick,</hi> Milit', <hi>Willielmo Turner,</hi> Milit', <hi>Georgio Waterman,</hi> Milit', <hi>Josepho Sheldon,</hi> Milit', <hi>Thoma Davies,</hi> Milit', <hi>Jacobo Edwards,</hi> Milit', <hi>Patientia Ward,</hi> Milit', <hi>Johanne Moore,</hi> Milit', <hi>Henrico Tulse,</hi> Milit', <hi>Jacobo Smith,</hi> Milit', <hi>Nathaniel Herne,</hi> Milit', <hi>Roberto Geffery,</hi> Milit', <hi>&amp; Thoma Gold,</hi> Milit', &amp; Aldermannis, necnon majore parte Communiariorum de Communi Concilio ejusdem Civitatis tunc &amp; ibidem Assemblat'.</opener>
+            <head type="sub">An Act for Regulation of <hi>Blackwell-Hall, Leaden-Hall,</hi> and the <hi>Welch-Hall,</hi> and for prevention of Foreign Buying and Selling.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by antient Customes and Vsages within this City, all Woollen Broad Cloths, Half Cloths, Kerseys, Cottons, Freizes, and all other Commodities, made or mixt with Wool, or Cotton-wool, Worsted, Iersey or Cruel, of what nature soever, made or wrought with<g ref="char:EOLhyphen"/>in this Kingdom of England, or Dominions of the same, and brought to this City and Liberties thereof (for greater discouraging the making sale of unlawfull wares, and for avoiding all corrupt, undue and clandestine Bargains and
+<pb n="2" facs="tcp:185218:3"/> Contracts concerning the Commodities aforementioned) have been, or ought to have been brought to <hi>Blackwell-Hall, Leaden-Hall,</hi> or the <hi>Welch-Hall,</hi> or to such other common Market-place, or places, as for that purpose were, or should from time to time be appointed, and thither brought, and there only, and not else<g ref="char:EOLhyphen"/>where, viewed, searched, and sold (the owners thereof paying for such Liberty and Priviledge, Hallage, and other Duties, for Relief of the poor Children in <hi>Christ's-Hospital.</hi>)</p>
+            <p>And whereas, to obviate the shifts and subtle devices of ill disposed persons, contriving for sinister ends, to evade the said laudable customs and usages, several Acts, Ordinances, and Constitutions have been made by this Court, which yet, either by the occasion of the variety thereof, or of their not proposing full remedies, have not accomplished the ends desired.</p>
+            <p>Be it therefore enacted by the Right Honourable the Lord Mayor, the Aldermen his Brethren, and the Commons in this Common-Council assembled, and by the Authority of the same, That all Acts, Ordinances, and Constitutions heretofore made by this Court for Regulation of the said Commodities and Mar<g ref="char:EOLhyphen"/>kets, shall be by this Act repealed.</p>
+            <p>And be it further enacted by the Authority aforesaid, That all <hi>Essex</hi> and <hi>Suffolk</hi> Cloths, and all Cloths commonly called <hi>Coven<g ref="char:EOLhyphen"/>try</hi> Cloths, <hi>Hampshire</hi> and <hi>Surrey</hi> Kerseys, and all sorts of <hi>Suffolk</hi> and <hi>Essex</hi> Flanions, Bayes, Perpetuanes, Rashes, Serges, and Sayes, and all other Commodities that go under the name of the new Drapery, made or mixt with Wool, Worsted, Ier<g ref="char:EOLhyphen"/>sey, or Cruel, or with Cotton-wool, or either or any of them, brought, or which shall be brought to the City of <hi>London,</hi> or Liberties thereof, either by Land or Water, except <hi>Norwich</hi> and <hi>Canterbury</hi> Stuffs, be brought unto, pitched, and harboured in <hi>Leaden-Hall,</hi> there to remain till they be entred, and the Duties of Hallage herein after mentioned paid, or agreed and secured to be paid for the same; which entry of the said Cloths, or other Woollen Manufactures, brought, or to be brought as aforesaid to the said Hall, shall be immediately made after such bringing the said Commodities to the said Hall, upon pain that every person that shall offend herein, shall forfeit for his first offence the sum of Fifty shillings, for his second Offence Four pounds nineteen shil<g ref="char:EOLhyphen"/>lings, and for every other offence the like sum of Four pounds nineteen shillings: Which Cloth, Cloths, and other VVoollen Manufactures, or any of them, shall not from thence be removed to any other place out of this City, or Liberties thereof, till after the three first Market days of their being brought to the said Market, unless sold in the mean time, or removed, and carried to be sold in any other Market without the Liberties of this City.</p>
+            <p>And it is hereby enacted and declared, That all other sorts of
+<pb n="3" facs="tcp:185218:3"/> broad and narrow Cloths by what name soever called, distin<g ref="char:EOLhyphen"/>guished, or known, in what place soever made, and all other Kerseys, Bayes, Tammies, Sayes, Rashes, Perpetuanes, Serges, Rugs, Blankets, Motleys, of what sort or nature soever, Pennistones, Half-thicks, Plains, Friezes, Cottons, Linsey-woolseys, Stockins of all sorts, Carpetings, and Hangings of all sorts, Fustions of all sorts, and all other Commodities, and Manufactures made or mixt with Wool, Worsted, Iersey, or Cruel, or with Cotton-wool, or either, or any of them, brought, or which shall be brought to the City of <hi>London,</hi> and Liberties thereof, either by Land or Water, be brought unto, pitched, and harboured in <hi>Blackwell-Hall,</hi> and the <hi>Welch-Hall,</hi> or one of them, there to remain till they be entred, and the Duties of Hallage herein after-mentioned also paid, or agreed and secured to be paid for the same; which entry of the said Cloths, Stuffs, and other Woollen Commodities, brought, or to be brought as a<g ref="char:EOLhyphen"/>foresaid, to the said Halls, or either of them, shall be immediately made after such bringing those Commodities to the said Halls, or any of them, upon pain that every person which shall offend herein, shall forfeit for his first Offence the sum of Fifty shil<g ref="char:EOLhyphen"/>lings, for his second Offence Four pounds nineteen shillings, and for every other Offence the like sum of Four pounds nineteen Shillings. Which Cloth, Cloths, and other Woollen Manu<g ref="char:EOLhyphen"/>factures, or any of them, shall not from thence be removed to any other place out of this City or Liberties thereof, till after the three first Market-days of their being brought to the said Market, unless sold in the mean time, or removed and carried to be sold in any other Market without the Liberties of this City, except the Cloth, Cloths, and other Commodities made or mixed with Wool, Worsted, Iersey, or Cruel, bought by any <hi>Merchant, Draper,</hi> or any other that are Free-men of the said City, and inhabiting therein (and not being a Factor in that Commodity) by precontract with the said <hi>Clothier,</hi> which Cloth, Cloths, and other Woollen Manufactures, shall be brought to the Hall appointed by this Act to receive the same; which being done, the said Cloths may be taken thence by the Owners as soon as they please; and except such small Parcels as being contracted for in the Country by persons that have bought, or shall buy the same for their own private use or wearing, and not to sell again; and except such Cloths and other VVoollen Manufa<g ref="char:EOLhyphen"/>cture, as having received damage by wet or otherwise upon the Road, shall require drying or new dressing before they can be fit for sale.</p>
+            <p>And be it enacted by the Authority aforesaid, That no person or persons whatsoever, Free or not Free of this City, shall at any time or times hereafter buy, sell, or barter any of the afore<g ref="char:EOLhyphen"/>said
+<pb facs="tcp:185218:4"/>
+               <pb n="4" facs="tcp:185218:4"/> Cloths, or any other the Commodities aforesaid, or shall permit or suffer them, or any of them to be sold, bartered, or put to sale, or opened to be put to sale, within any part of his or their Houses, Yards, Inns, Stables, Chambers, Shops, Ware-houses, or Work-houses, or other place or places within the said City or Liberties thereof, before the same be brought, pitched, and harboured within some of the said publick Markets of <hi>Blackwell-Hall, Welch-Hall,</hi> or <hi>Leaden-Hall,</hi> respectively, ap<g ref="char:EOLhyphen"/>pointed as aforesaid, and therein sold, or from thence removed and carried to be sold in some other Market without the Liberties of this City, or shall buy, sell, or barter, or permit any of the said Commodities, which shall at any time hereafter be ta<g ref="char:EOLhyphen"/>ken out of any the said Markets of <hi>Blackwell-Hall, Welch-Hall,</hi> or <hi>Leaden-Hall</hi> (before the same shall be there bought and sold as aforesaid) to be bought, sold, bartered, or put to sale, or open<g ref="char:EOLhyphen"/>ed to be put to sale in any of his or their Inn, Yard, House, Stables, or any part thereof, as aforesaid, within the said City or Liberties thereof, other than in any of the said Markets of <hi>Blackwell-Hall, Leaden-Hall,</hi> or <hi>Welch-Hall,</hi> appointed as afore<g ref="char:EOLhyphen"/>said (except as is before excepted.)</p>
+            <p>And be it further enacted by the Authority aforesaid, That neither Factor nor Broker belonging to <hi>Blackwell-Hall,</hi> or <hi>Leaden-Hall,</hi> although a Free-man of this City, so long as he is in the Capacity of a Factor or Broker for Foreigners, during his being so, shall buy any of the said Cloth, Cloths, Kerseys, Bays, Fustians, or other Commodities aforesaid, within the said Mar<g ref="char:EOLhyphen"/>kets or Market-places aforesaid, on pain that every such person who shall offend herein, shall forfeit and lose for the first offence Three pounds, for the second offence Four pounds nineteen shil<g ref="char:EOLhyphen"/>lings, and for every other offence the like sum of Four pounds nineteen shillings.</p>
+            <p>Provided, that neither such Factor nor Broker, being a Free-man of this City, shall by this Act be restrained from buying any sort of Cloth, Cloths, or other Woollen Manufactures aforesaid, within the said Markets or Market-places, within the hours here<g ref="char:EOLhyphen"/>after limited, which he himself doth not sell, so that the same be Transported beyond the Seas upon his own account.</p>
+            <p>And be it further enacted by the Authority aforesaid, That all persons, as well Carriers, as Cloth-men, or Clothiers, and others, shall at the bringing of their Cloth, Cloths, and other Woollen Manufactures, either by Land or Water, to this City or Liber<g ref="char:EOLhyphen"/>ties thereof as aforesaid, bring or cause to be brought to <hi>Black<g ref="char:EOLhyphen"/>well-Hall, Leaden-Hall,</hi> or <hi>Welch-Hall</hi> respectively, such of them as by this Act are appointed to be brought thither respective<g ref="char:EOLhyphen"/>ly, to the end, they may be entred, and the Duties paid for the same, upon pain of Twenty shillings for every pack of Cloth,
+<pb n="5" facs="tcp:185218:4"/> Cloths, or other Commodities, to be forfeited and paid by every such Carrier, Cloth-man, Clothier, or others, for every of<g ref="char:EOLhyphen"/>fence to the contrary; and for every single Cloth, or other Woollen Commodities, the piece Ten shillings.</p>
+            <p>And be it further enacted by the Authority aforesaid, That the Markets at the aforesaid <hi>Blackwell-Hall, Leaden-Hall,</hi> and <hi>Welch-Hall,</hi> shall be, and begin on every <hi>Thursday,</hi> between the Twenty fifth day of <hi>March,</hi> and the Twenty ninth day of <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> at Eight of the Clock in the Forenoon, and continue till Eleven of the Clock in the same Forenoon; and between the Twenty ninth day of <hi>September</hi> and the Twenty fifth day of <hi>March,</hi> at Nine of the Clock in the Forenoon, and continue till Eleven of the Clock in the same Forenoon; and on every <hi>Thursday</hi> at One of the Clock in the Afternoon, and continue till Four of the Clock in the same Afternoon; and on every <hi>Friday</hi> at Eight of the Clock in the Forenoon, and continue till Eleven of the Clock in the same Fore<g ref="char:EOLhyphen"/>noon; and shall begin in the Afternoon of the same <hi>Friday</hi> at One of the Clock, and shall continue till Four of the Clock in the same Afternoon; and shall begin on every <hi>Saturday</hi> at Eight of the Clock in the Forenoon, and shall continue till Eleven of the Clock in the same Forenoon; and that the said hours for the beginning and ending of the said Market times, shall be known by the Ringing of the Market-Bells in the Halls aforesaid, appointed for that use and purpose; and the same to be held and continued weekly throughout the whole year, except days of Humiliation or Thanksgiving, appointed to be otherwise set apart by Act of Par<g ref="char:EOLhyphen"/>liament, or publick authority: and that the respective Hall-keepers shall not permit or suffer any buying or selling of any the aforesaid Woollen Cloths or Commodities in or at any of the said Halls in or upon any other days or hours than on the Market days and hours appointed.</p>
+            <p>And be it further enacted by the Authority aforesaid, That the respective Hall-keepers, Clerks, and Master Porters of every the Halls aforesaid, shall take care, that all the Rules and Orders, appointed to be observed by this Act, in every branch of it be carefully put in Execution, and shall also diligently and faithfully keep their Books and weekly Registers of all the Cloths and Woollen Commodities aforesaid bought and sold in any of the said Halls, or brought and pitched there; in which Books and Registers they and every of them, as they are concerned in their respective Halls, shall truly enter the Names of Baptism, Sirnames, place of Habitation, and Addition, both of the Owner, Buyer and Seller of every of the said Commodities; to the end, all Clothiers, their Factors, and others concerned, may be satisfied how their Cloths, and other Woollen Commo<g ref="char:EOLhyphen"/>dities are disposed of from time to time; and if any Hall-keeper,
+<pb n="6" facs="tcp:185218:5"/> Clerk, or Master Porter; shall refuse or neglect to perform his duty herein, for the first offence he shall forfeit twenty shillings, for his second offence forty shillings, and for his third offence be dis<g ref="char:EOLhyphen"/>charged from his Office.</p>
+            <p>And be it further enacted by the authority aforesaid, That the Hall-keepers of every the Halls aforesaid for the time being, shall every Market-day, during Market time, attend in their respe<g ref="char:EOLhyphen"/>ctive Markets in their Gowns, and hinder all Foreigners and Aliens from coming into the said Markets; and if any such Foreigner or Alien shall presume to come into the said Markets, or any of them, to buy or inspect into any the Commodities afore<g ref="char:EOLhyphen"/>said, then the said Hall-keepers respectively shall turn such Fo<g ref="char:EOLhyphen"/>reigner or Alien out of the said Markets, and shall not suffer him again to enter thereinto during Market time aforesaid, upon pain that every Hall-keeper that shall fail in his duty herein, shall for<g ref="char:EOLhyphen"/>feit for his first offence twenty shillings, for his second offence forty shillings, and for his third offence be discharged from his Office.</p>
+            <p>And be it further enacted by the Authority aforesaid, That every Free-man of this City, that shall introduce any Foreigner or Stranger into any of the aforesaid Markets, to buy, or make inspection into any of the aforesaid Commodities, shall for his first offence forfeit and pay the sum of five pounds, and for his second offence the sum of ten pounds, and for his third offence the sum of twenty pounds; and if any such Free-man shall again offend in the like manner, then upon his Conviction thereof in the Kings Majesties Court holden within the <hi>Guild-Hall</hi> of this City, before the Lord Mayor and Aldermen of the same City (for the time being) he and they shall stand and be utterly disfranchised as unworthy Members of this City, and shall not be readmitted but by order and consent of Common-Coun<g ref="char:EOLhyphen"/>cil.</p>
+            <p>And for further preventing the colouring of Foreigners Goods, by Factors selling of the aforesaid Commodities within the said Markets to Foreigners, or for their use; be it enacted by the Authority aforesaid, That every Factor, who shall after the publication of this Act, either himself, or by his servant know<g ref="char:EOLhyphen"/>ingly, sell any of the Commodities aforesaid, in any of the common Markets before mentioned, to any Foreigner or Foreigners, or for his or their use (except to such persons as by Act of Parlia<g ref="char:EOLhyphen"/>ment are allowed) that every such Factor so selling the same, whether a Free-man or Foreigner, shall for his offence forfeit and pay one third part of the real value of every piece of VVoollen Commodity so sold to Foreigner or Foreigners.</p>
+            <p>And further be it enacted, That every Hall-keeper of the several Halls aforesaid, respectively do and shall within four<g ref="char:EOLhyphen"/>teen
+<pb n="7" facs="tcp:185218:5"/> days next after the publishing of this Act, present a Note in Writing to the President, Treasurer, and Governours of <hi>Christ's-Hospital,</hi> of the Names and Sirnames of all persons who then take upon them to be and to act and deal as Factors and Brokers in any of the said Halls respectively, and shall likewise hereafter from time to time at every three Months end make like Certificate in Writing to the said Governours of the Names and Sirnames of all Factors or Brokers, or such as take upon them to act as Factors or Brokers in either of the said Halls respectively, to<g ref="char:EOLhyphen"/>gether with the offence or offences by them, or any of them com<g ref="char:EOLhyphen"/>mitted contrary to this Act, or any other Orders made for the good Government of the said Halls, to the intent, that the grie<g ref="char:EOLhyphen"/>vances may be redressed, and that such proceedings may be had against the offenders as is hereby directed and appointed, upon pain that every Hall-keeper wilfully neglecting to do his duty herein, shall for his first offence forfeit the sum of Three pounds, and for his second offence be dismiss'd of his place, or imployment of Hall-keeper.</p>
+            <p>And whereas it is found by dayly experience, that through the neglect of the Clerks or Registers of the aforesaid Halls, in not entering the quantities of Cloth, and other Commodities which are sold, and to whom the same are sold, great quantities are bought frequently up in those Markets by Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eigners, Foreign-Merchants, and their Agents, by which means many Mer<g ref="char:EOLhyphen"/>chants and others who are great Traders in those Commodities, and who have a right unto their freedoms, do neglect and slight the same, to the exceeding prejudice of the Customs and Fran<g ref="char:EOLhyphen"/>chises of this City: Be it therefore enacted by the Authority aforesaid, That for the observation of this Act and all the parts thereof, there be every year yearly six able experienced Free-men, dealers in those Commodities, Surveyors, chosen by the President and Governours of <hi>Christ's-Hospital</hi> at the next Court to be hol<g ref="char:EOLhyphen"/>den after the second day of <hi>February</hi> next ensuing, and so yearly from year to year, whose Office shall be by themselves, or such others as they shall think fit to use for their assistance, to enquire of all abuses and offences against this Act, and any two of them, to present the same to the said Court from time to time as often as they shall find cause, that so due punishment may be inflicted upon the Offenders.</p>
+            <p>And be it further enacted by the Authority aforesaid, That the ensuing rates and no others shall be paid, demanded, and re<g ref="char:EOLhyphen"/>ceived of and from every the respective Owner or Owners, or his and their Servant and Agent for the Commodities hereafter mentioned, brought, and to be brought to the several Halls, or any of them for the said Hallage-duty thereof, and for the entering, harbouring, and safe keeping thereof, from the time
+<pb n="8" facs="tcp:185218:6"/> of their first pitching the three first Market-days, and no longer.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All broad Cloths of what kind or name soever, shall pay a piece for Hallage</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All broad Rashes 20 Yards or above</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All Kersey Cottons</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>Devon-shire, Wilt-shire,</hi> and <hi>Dorset-shire</hi> Bays shall pay for each piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutch <hi>Bays, the piece</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All other <hi>Essex, Norfolk,</hi> and <hi>Suffolk,</hi> and Minakin Bays by what name soever called, shall pay for each piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>York-shire</hi> Broad Cloths, Kerseys, Cottons, and all other Commodities made of Wool, shall pay for the Horse-pack coming from those parts</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>Lancaster</hi> Woollen Wares, as Broad Cloths, Kerseys, Cot<g ref="char:EOLhyphen"/>tons, Bays, Penistones, Friezes, and all other Commo<g ref="char:EOLhyphen"/>dities made with Wool coming from those parts, the Horse-pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All Commodities coming from <hi>Wales, Salop,</hi> and any of those parts, commonly known by the name of <hi>Welch</hi> Cottons, Rolls, Plains, Bays, Flanions, or Friezes, shall pay for every Horse-pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All Flanions, Venetians, Wagmols, Dimities, Fustians, And Bustians made in <hi>England</hi> and <hi>Wales,</hi> shall pay for each Horse-Pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All Stuffs, of what name or kind soever made of Wool, Worsted, Jersey, or Cruel, or mixt with them, or any of them, the piece to pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bed-Rugs or Caddowes for Beds, being five bredths, or any of the same largeness, shall pay for every Rug</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Rug of four bredths, or of the same largeness</hi>
+                     </cell>
+                     <cell>
+                        <hi>0 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>For every Rug of three bredths, or of the same largeness</hi>
+                     </cell>
+                     <cell>
+                        <hi>0 ¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cradle-Rugs, for every two Rugs</hi>
+                     </cell>
+                     <cell>
+                        <hi>0¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Blankets, the dozen pair</hi>
+                     </cell>
+                     <cell>
+                        <hi>1½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Birdsey Carpeting, <hi>Bristol</hi> Carpeting, and all other sorts of Carpeting, and Darnix, the piece being twenty Yards or more</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>But if the piece be less than twenty Yards</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carpets of Needle-work, or Tent-work, for every Carpet to pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Coverlets, the Horse-pack to pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>If less than a Horse-pack, every one</hi>
+                     </cell>
+                     <cell>
+                        <hi>0 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Worsted Stockins, the twenty pair shall pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Yarn, being Woollen, Cruel, Linnen, Worsted or, Jersey, every dozen pound shall pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>1<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                        </hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bolters and Bewpers, the dozen pieces</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <pb n="9" facs="tcp:185218:6"/>
+                  <row>
+                     <cell>
+                        <hi>The single piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>0 ¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Darnix narrow for Garments, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hair Cloth, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Linsey-Woolsey broad, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Narrow, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>0½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Loom-work for Wastcoats and Childrens Coats</hi>
+                     </cell>
+                     <cell>
+                        <hi>0½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Says plained or milled, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every half piece of above thirty shillings price or more</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>But the half piece under thirty shillings price</hi>
+                     </cell>
+                     <cell>
+                        <hi>0½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Serges of all sorts, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Muckaddo ends, the dozen pounds</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cushions of all sorts unstuffed and unbottomed, the dozen</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Irish <hi>Rugs, the hundred Yards</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>4</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Irish <hi>Mantles of all sorts, being made within this Kingdom, twenty yards and upwards, to pay</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Motleys for Mariners, the piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>0½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pedegny, the Horse-pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>8</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Swadling bands, the Gross</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Woollen Stockins, for every three dozen</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>All which duties of Hallage are to be from time to time im<g ref="char:EOLhyphen"/>ployed for and towards the maintenance of the poor Children har<g ref="char:EOLhyphen"/>boured in <hi>Christ's-Hospital.</hi>
+            </p>
+            <p>And be it further enacted by the Authority aforesaid, That if any Owner or Owners of the Commodities aforesaid, or his or their Servant shall refuse to pay, agree, or secure to pay the Hallage before-mentioned at the first pitching of the same at any of the Halls aforesaid, he shall forfeit and pay for such his refu<g ref="char:EOLhyphen"/>sal six shillings and eight pence for every Cloth, or any other sin<g ref="char:EOLhyphen"/>gle piece of Woollen Manufacture unpacked; and twenty shil<g ref="char:EOLhyphen"/>lings for every pack of Cloth, Cloths, or other Woollen Manu<g ref="char:EOLhyphen"/>facture.</p>
+            <p>And be it further enacted by the Authority aforesaid, That if the Own<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r or Owners of any the aforesaid Commodities, or his or their Servant cannot within the time and space of the three first Market-days, next after the bringing of th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m to the said re<g ref="char:EOLhyphen"/>spective Markets sell all the Cloth, Cloths, or other Woollen Manufactures brought to <hi>Blackwell-Hall, Leaden-Hall,</hi> or the aforesaid <hi>Welch-Hall,</hi> then it shall be lawful for the said Owner or Owners, or his or their Servant by his appointment to re<g ref="char:EOLhyphen"/>move any of the said Commodities which shall remain unsold after the said Market-days are over, to any other Market or Markets forth of this City and Liberties th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reof, or otherwise, to dispose of them as they shall think fit.</p>
+            <pb n="10" facs="tcp:185218:7"/>
+            <p>And whereas the aforesaid <hi>Blackwell-Hall</hi> since the late lamen<g ref="char:EOLhyphen"/>table and dreadful Fire in <hi>September, 1666.</hi> is made more com<g ref="char:EOLhyphen"/>modious and convenient for the lodging and safe keeping of Cloth, Cloths, and other Woollen Manufactures than heretofore; be it further enacted by the Authority aforesaid, That what Cloth, Cloths, or other Woollen Manufacture, shall remain in any of the Halls or Market-places, or Store-houses in <hi>Blackwell-Hall</hi> aforesaid, after the three first Market-days, if the Owner or Owners do not remove the same to some other place or Market forth of this City, but will continue them to be lodged and safe kept therein, that then the Owner or Owners of any such Cloth, Cloths, or other Woollen Manufactures aforesaid, their Factor or Servant shall pay for the lodging and safe keeping of the said Commodities half so much every week as was the rate of their Hallage at first pitching (under penalty of five shillings for eve<g ref="char:EOLhyphen"/>ry neglect or refusal upon demand) which Money is likewise to go for and towards the relief of the poor Children harboured in <hi>Christ's-Hospital,</hi> and to defray the charges of Officers that must of necessity be imployed therein, and repairs of the said Halls. Provided, that this extend not to <hi>Devon-shire</hi> Packs, for which consideration is paid at the first pitching, nor to <hi>York-shire</hi> Packs, <hi>Kidderminster</hi> Stuffs, Serges, <hi>Welch</hi> Cottons, Plains, or Flanions, in <hi>Blackwell-Hall,</hi> and the <hi>Welch-Hall,</hi> nor to any Bays or Says at <hi>Leaden-Hall,</hi> nor to Cloths lodged in any private Store-houses or Ware-houses, for which an annual Rent is paid to the said Hospital.</p>
+            <p>And further to prevent the shifts that are practised to evade the ancient priviledges of this City by Porters and others, who are imployed in carrying Cloth out of or from <hi>Blackwell-Hall, Leaden-Hall,</hi> or the <hi>Welch-Hall</hi> aforesaid; be it enacted by the Authori<g ref="char:EOLhyphen"/>ty aforesaid, That no common Porter, nor any other person or persons whatsoever (except the Clothier, or his Factor in his or their own person) shall be admitted to carry any of the Commo<g ref="char:EOLhyphen"/>dities aforesaid out of or from the said <hi>Blackwell-Hall, Leaden-Hall,</hi> or the <hi>Welch-Hall,</hi> or any of the Rooms adjoyning there<g ref="char:EOLhyphen"/>unto (except such Commodities as the Clothier or his Factor shall send out to be refreshed and prepared for sale by his Cloth-worker or Packer, for whom he will answer) but the same shall be carried out by the chief Porters of <hi>Blackwell-Hall, Leaden-Hall,</hi> or the <hi>Welch-Hall</hi> aforesaid (for the time being) or such as shall be appointed by the chief Porters of <hi>Blackwell-Hall, Lea<g ref="char:EOLhyphen"/>den-Hall,</hi> or the <hi>Welch-hall,</hi> as anciently it hath been accusto<g ref="char:EOLhyphen"/>med, and for whom they shall be respectively responsible. And to the end, there may be no exaction of rates and prices for the carriage of the aforesaid Commodities out of the said <hi>Blackwell-Hall, Leaden-Hall,</hi> or the <hi>Welch-Hall,</hi> of any Merchant, or other
+<pb n="11" facs="tcp:185218:7"/> buyer or seller of the said Commodities, otherwise than the rates hereafter mentioned, as are appointed for their several carriages, be it enacted and ordained by the Authority aforesaid, That the several rates hereafter mentioned shall be fairly written in a Table, and hung up in some publick place in each of the said Halls, and that these rates and no greater shall or may be ta<g ref="char:EOLhyphen"/>ken by the said Porters, or by any other imployed by them; and if any chief Porter, or any imployed by them shall exact and receive more than shall be expressed in such Tables, he or they so offending shall forfeit Ten times as much as shall be so re<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Inprimis, <hi>every</hi> Kentish <hi>whole Cloth, or two half Cloths, shall pay</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every long <hi>Worcester</hi> whole Cloth, or two half Cloths, shall pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every long <hi>Glocester</hi> whole Cloth, or two half Cloths, shall pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every long Western whole Cloth, or two half Cloths, shall pay</hi>
+                     </cell>
+                     <cell>
+                        <hi>2</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every <hi>Norfolk, Suffolk,</hi> or <hi>Essex</hi> Cloth</hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Every <hi>Spanish</hi> Cloth</hi>
+                     </cell>
+                     <cell>
+                        <hi>1</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Northern dozen Kerseys or Cotton, the pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Devon-shire <hi>Bays, for each piece</hi>
+                        </hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ¼</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Minakin Bays, for each piece</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>Essex, Norfolk,</hi> and <hi>Suffolk</hi> Bays</hi>
+                     </cell>
+                     <cell>
+                        <hi>1 ½</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>Welch</hi> Wares, the Horse-pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All <hi>Manchester</hi> Wares, the Horse-pack</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Blankets, twelve pair in a bundle</hi>
+                     </cell>
+                     <cell>
+                        <hi>3</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rugs, for every score</hi>
+                     </cell>
+                     <cell>
+                        <hi>10</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stockins and Yarn, for every Horse-pack of Two hundred weight</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>All Fustians and Bustians, or Dimities, the Horse-pack at Two hundred weight</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+                  <pb n="12" facs="tcp:185218:8"/>
+                  <row>
+                     <cell>
+                        <hi>And all other Manufactures mentioned in this Act, and not provided for in the Table, shall pay for every Horse-pack of Two hundred weight</hi>
+                     </cell>
+                     <cell>
+                        <hi>6</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>And whereas it is found by the great increase of Factors in the said Markets, occasioned by their taking so many Servants Apprentices as aforesaid, the Clothier that comes up to <hi>London</hi> to make sale of his Cloth, Cloths, or other Woollen Manufa<g ref="char:EOLhyphen"/>ctures, many times wants room to pitch and sell the said Com<g ref="char:EOLhyphen"/>modities, the which is a great grievance to the said Clothier, and no way allowed by this City; for regulating whereof, be it further enacted by the authority aforesaid, That it shall and may be lawful to and for the Governours of <hi>Christ's-Hospital</hi> afore<g ref="char:EOLhyphen"/>said, or any three of them, or Hall-keeper by their Direction, from time to time, to regulate the aforesaid Markets of the said <hi>Blackwell-Hall, Leaden-Hall,</hi> and the <hi>Welch-Hall,</hi> as to the standing of the Clothier and Factor in the said Markets, having always regard to the Clothier who sells in his own person, or his houshold Servant, that he or they have always convenient room reserved in the said Markets for the sale of the aforesaid Commodities.</p>
+            <p>And it is further enacted and ordained by the authority afore<g ref="char:EOLhyphen"/>said, That all and singular the pains, penalties, forfeitures, and sum and sums of Money, Duties, and other things whatsoever, which shall be forfeited, incurred, or due by virtue of this Act, or by reason of any Clause, Branch, or Article of the same shall be obtained, levyed by distress, or recovered as the case shall re<g ref="char:EOLhyphen"/>quire, either by action of Debt, Plaint, Bill, or Information, in the name of the Chamberlain of the said City for the time being, in the King's Majesties Court holden in the Chamber of the <hi>Guild-Hall,</hi> before the Lord Mayor of the City of <hi>London,</hi> and Aldermen of the same City for the time being, and the Chamber<g ref="char:EOLhyphen"/>lain of the said City for the time being, in all matters or things to be prosecuted by virtue of this present Act against the Offender or Offenders, shall recover the ordinary Costs of Suit to be expended in or about the prosecution of them, or any of them. And in case upon a Tryal a Verdict shall pass for the Defen<g ref="char:EOLhyphen"/>dant, or the Plaintiff shall become non-suit, or discontinue his Suit; in every such Case, the Defendant shall also recover his reasonable costs.</p>
+            <p>And be it further enacted by the Authority aforesaid, That all pains, penalties, and forfeitures, to be had and recovered by virtue of this Act for the Regulating of <hi>Blackwell-Hall, Leaden-Hall,</hi>
+               <pb n="13" facs="tcp:185218:8"/> and the <hi>Welch-Hall,</hi> and other the premises as aforesaid, (the charges of Suit for recovery thereof being first deducted) shall be divided into two equal parts; the one moiety thereof, together with the whole duties of Hallage, to be paid unto the Treasurer of <hi>Christ's-Hospital</hi> for the time being, to be imployed towards the maintenance of the poor Children harboured and kept in the said Hospital; and the other moiety, to him or them that will sue for the same: Any other Act or Ordinance of this Court to the contrary thereof, notwithstanding.</p>
+            <closer>
+               <signed>Wagstaffe.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
